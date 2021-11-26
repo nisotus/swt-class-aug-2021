@@ -16,6 +16,7 @@ print(10 / 5) # Division to get a float
 print(10 // 3) # Division to get integer
 print(10 % 3) # Modulus - to get the remainder part of a division
 print(10 ** 3) # Exponent - the power of
+print(200**3)
 
 # ------------------------------------------
 
